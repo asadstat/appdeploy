@@ -1738,6 +1738,8 @@ def server(
                                         xi,
                                         yi
                                     )
+                                    row_number = int(row_number)
+                                    column_number = int(column_number)
                                 except Exception:
                                     continue
                                     

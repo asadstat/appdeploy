@@ -12,3 +12,10 @@ rasterio==1.4.1
 pyproj==3.7.0
 pyogrio==0.10.0
 h5py==3.12.1
+streamlit>=1.33
+earthengine-api>=0.1.400
+geopandas>=0.14
+shapely>=2.0
+folium>=0.15
+streamlit-folium>=0.20
+pandas>=2.0
